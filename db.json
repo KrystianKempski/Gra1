@@ -1,8 +1,8 @@
 {
-  "troops": [
-    { "id": 1, "name": "Konnica", "STR": 18, "AGI" : 8 },
-    { "id": 2, "name": "Łucznicy", "STR": 10, "AGI" : 16 },
-    { "id": 3, "name": "Piechota", "STR": 14, "AGI" : 13 }
+  "posts": [
+    { "id": 1, "title": "Konnica" },
+    { "id": 2, "title": "Łucznicy" },
+    { "id": 3, "title": "Piechota"}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
